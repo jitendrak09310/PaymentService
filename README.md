@@ -46,7 +46,7 @@ it’s about handling failures, retries, duplicates, and consistency correctly.
 
 📌 Check out the code here:
 
-👉 [Add your GitHub link here]
+👉 https://github.com/jitendrak09310/PaymentService
 
 Feel free to explore, fork, and practice. Feedback is always welcome 🙌
 
